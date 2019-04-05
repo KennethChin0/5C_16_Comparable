@@ -1,1 +1,1 @@
-# 5C_16_Comparable
+# play with `Comparable` types
